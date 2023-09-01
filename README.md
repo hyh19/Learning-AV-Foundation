@@ -1,5 +1,19 @@
 # Learning AV Foundation
 
+<!-- 
+2023.9.1
+
+Xcode 14.3 (14E222b)
+
+$ sw_vers
+ProductName:		macOS
+ProductVersion:		13.0
+BuildVersion:		22A380
+
+$ uname -a
+Darwin Yuhuis-MacBook-Pro.local 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:15:52 PDT 2022; root:xnu-8792.41.9~2/RELEASE_ARM64_T8112 arm64
+-->
+
 ![Book Cover](https://raw.github.com/tapharmonic/Learning-AV-Foundation/master/book.jpg)
 
 Sample code for Bob McCune's Learning AV Foundation book. The book is now available from from  <a href="http://www.informit.com/store/learning-av-foundation-a-hands-on-guide-to-mastering-9780321961808">InformIT</a>. Use MCCUNE1808 for a 30% discount!
